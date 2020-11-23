@@ -22,7 +22,7 @@ imagenes['10'] = 'diez.png'
 
 var caja = [];
 caja.push( new Billete(50, 12));
-caja.push( new Billete(20, 5));
+caja.push( new Billete(20, 10));
 caja.push( new Billete(10, 10));
 
 var entregado = [];

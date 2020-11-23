@@ -16,9 +16,9 @@ class Billete {  //creacion de la clase
 
 //Arreglos
 var imagenes = [];
-imagenes['50'] = 'cincuenta.png'
-imagenes['20'] = 'veinte.png'
-imagenes['10'] = 'diez.png'
+imagenes['50000'] = 'cincuenta.png'
+imagenes['20000'] = 'veinte.png'
+imagenes['10000'] = 'diez.png'
 
 var caja = [];
 caja.push( new Billete(50000, 13));

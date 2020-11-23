@@ -21,9 +21,9 @@ imagenes['20'] = 'veinte.png'
 imagenes['10'] = 'diez.png'
 
 var caja = [];
-caja.push( new Billete(50, 12));
-caja.push( new Billete(20, 10));
-caja.push( new Billete(10, 10));
+caja.push( new Billete(50000, 13));
+caja.push( new Billete(20000, 10));
+caja.push( new Billete(10000, 10));
 
 var entregado = [];
 
